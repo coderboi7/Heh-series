@@ -3,8 +3,9 @@ So this is a malware series that i like to develop on my free time for fun.
 
 
 ## Information
-- I am not the one responciable for the damage done, if you run these on your own pc or on one of your friends pc.
+- I am not the one responciable for any damage, if you run these on your own pc or on one of your friends pc.
 - I develop this malware series for fun and science reasons and i do not encourage any kind of harm to any machine.
+- If you are going to run these run it on windows 10(probably it works on windows xp-10 but just to be safe)(and i HIGHLY recomend running them on a vm)
 
 ### While running
 - These malware files are only for windows.
