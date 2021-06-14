@@ -1,5 +1,4 @@
 # Heh-series
-![alt text](C:\Users\EGE YEŞİL\Pictures\heh.png)
 So this is a malware series that i like to develop on my free time for fun.
 ## Information
 - I am not the one responciable for the damage done, if you run these on your own pc or on one of your friends pc.
