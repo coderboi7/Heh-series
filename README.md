@@ -15,4 +15,5 @@ So this is a malware series that i like to develop on my free time for fun.
 If you find any bug please contact me from discord:Pengu_bro#5950.
 
 ### While reporting
-please tell me what version of windows you use and if it is in a vm or not.
+Please tell me what version of windows you use and if it is in a vm or not.
+NOTE: I know that heh xp and remastered's mouse disabler doesnt work on a vm 
