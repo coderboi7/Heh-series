@@ -1,5 +1,5 @@
 # Heh-series
-So this is a malware series that i like to develop on my free time for fun.
+So this is a malware series that i like to develop on my free time for fun and to improving my coding skills.
 
 
 ## Information
@@ -20,4 +20,4 @@ NOTE: I know that heh xp and remastered's mouse disabler doesnt work on a vm
 
 ## release dates
 I try make one malware each week
-if I am not uploading any files know that I am working on it(or watching anime)
+if I am not uploading any files know that I am working on it(or watching anime[heh 7.0 is coming really soon])
