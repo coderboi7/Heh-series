@@ -20,4 +20,4 @@ NOTE: I know that heh xp and remastered's mouse disabler doesnt work on a vm
 
 ## release dates
 I try make one malware each week
-if I am not uploading any files know that I am working on it(or watching anime[heh 7.0 is coming really soon])
+if I am not uploading any files know that I am working on it(or watching anime)
