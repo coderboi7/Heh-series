@@ -1,0 +1,16 @@
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.exe
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.deps.json
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.runtimeconfig.json
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.runtimeconfig.dev.json
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.dll
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\ref\mhm.dll
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\bin\Debug\net5.0\mhm.pdb
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.csproj.AssemblyReference.cache
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.AssemblyInfoInputs.cache
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.AssemblyInfo.cs
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.csproj.CoreCompileInputs.cache
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.dll
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\ref\mhm.dll
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.pdb
+C:\Users\EGE YEŞİL\Desktop\coding and weird extenctions\mhm\obj\Debug\net5.0\mhm.genruntimeconfig.cache
